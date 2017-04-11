@@ -31,7 +31,7 @@
     "jszip": "^2.4.0",
     "lie": "^3.0.1",
     "lru-cache": "^2.7.0",
-    "parsedbf": "~0.1.2",
+    "parsedbf": "git://github.com/calvinmetcalf/parseDBF.git#dd69e5c7fdc56e32c333a0898292a8f06d2bb8f1",
     "proj4": "^2.1.4"
   },
   "browser": {
